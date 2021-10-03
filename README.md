@@ -1,9 +1,9 @@
-# SQL Employee Database
+# SQL Data Engineering and Analysis
 
 ![sql.png](sql.png)
 
 ## Background
-Within this project I will design the tables to hold data from six CSVs, import the CSVs into a SQL database, and answer questions about the data. 
+Within this project I will design the tables to hold data from six CSVs, import the CSVs into a PostgreSQL database, and answer questions about the data. 
 
 #### Data Modeling
 
