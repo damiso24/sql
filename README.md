@@ -39,6 +39,7 @@ For my data analysis I was tasked to answer the following questions:
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+
 ERD created using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 
