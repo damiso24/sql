@@ -16,7 +16,7 @@ Inspect the CSVs and sketch out an ERD of the tables.
 
 #### Data Analysis
 
-For my data analysis I was tasked to answer the following questions:
+For my data analysis I will answer the following questions:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
