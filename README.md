@@ -7,8 +7,7 @@ Within this project I will design the tables to hold data from six CSVs, import 
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables.  ERD created using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
-
+Inspect the CSVs and sketch out an ERD of the tables.  
 #### Data Engineering
 
 * Use the information I have to create a table schema for each of the six CSV files. Create primary keys, foreign keys, and other constraints.
@@ -40,4 +39,6 @@ For my data analysis I was tasked to answer the following questions:
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+ERD created using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+
 
